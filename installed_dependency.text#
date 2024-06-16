@@ -1,0 +1,6 @@
+npx expo install react-native-web @expo/metro-runtime
+expo init appName
+npm i @react-native-community/hooks
+
+
+
